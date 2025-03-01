@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mi Presentación</title>
 </head>
 <body style="font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; line-height: 1.6; padding: 20px;">
   <header style="background: #35424a; color: #fff; padding: 20px 0; text-align: center; margin-bottom: 20px;">
@@ -13,7 +12,7 @@
     <section style="margin-bottom: 20px;">
       <h2 style="color: #35424a; margin-bottom: 10px;">Acerca de Mí</h2>
       <p style="margin-bottom: 15px; text-align: justify;">
-        Hola, soy Francisco. Soy un apasionado de la tecnología y el desarrollo web. Me encanta aprender y crear proyectos innovadores.
+        Hola, soy Francisco 👋. Soy un apasionado de la tecnología y el desarrollo web. Me encanta aprender y crear proyectos innovadores.
         Actualmente estudio la licenciatura en computación en la UAM Iztapalapa, he desarrollado pequeños proyectos de front-end durante mi estadía en la escuela y actualmente estoy capacitándome en la TI (Microsoft).
       </p>
     </section>
