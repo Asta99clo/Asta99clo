@@ -1,6 +1,6 @@
+<div style="text-aling:center">
 <h1>hola,soy<stronge>Francisco</stronge></h1> 👋
-
-**Asta99clo/Asta99clo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
 Here are some ideas to get you started:
 
